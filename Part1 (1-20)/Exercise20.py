@@ -1,9 +1,9 @@
 # Sum up to 3 interger numbers using a single function.
 
 def SumOfNumbers():
-    print("-------------------------------------------------------")
-    print("# Sum up to 3 interger numbers using a single function.")
-    print("-------------------------------------------------------")
+    print("-----------------------------------------------------")
+    print("Sum up to 3 interger numbers using a single function.")
+    print("-----------------------------------------------------")
     print()
 
     try: 
